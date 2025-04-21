@@ -1,0 +1,2 @@
+# miniMe
+mini portfolio project
