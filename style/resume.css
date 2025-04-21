@@ -1,0 +1,13 @@
+#resume {
+  aspect-ratio: 3 / 4;
+  height: 775px;
+  width: 600px;
+  overflow: hidden;
+  border: none;
+  border-radius: 10px;
+  border: 4px solid white;
+}
+
+.main {
+  height: auto;
+}
